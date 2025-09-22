@@ -11,32 +11,13 @@
 
 ## 📘 My Top Open Source Projects  
 
-### [awesome-project-1](https://github.com/MRDAVIL1/Tahir-Web-Craft)  
-![GitHub Repo stars](https://img.shields.io/github/stars/MRDAVIL1/Tahir-Web-Craft?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/MRDAVIL1/Tahir-Web-Craft?style=social)  
-⚡ Dynamically generated, customizable SVG banners for profiles.  
-
+### [Audio and Videos Project](https://github.com/MRDAVIL1/Tahir-Web-Craft)  
 ---
 
-### [cool-dashboard](https://github.com/TahirAli/cool-dashboard)  
-![GitHub Repo stars](https://img.shields.io/github/stars/TahirAli/cool-dashboard?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/TahirAli/cool-dashboard?style=social)  
-🔥 Stay productive with this modern dashboard built with React + Tailwind.  
-
+### [FIGMA_BLOGS](https://github.com/MRDAVIL1/Figma_Blog)
 ---
 
-### [custom-badges](https://github.com/TahirAli/custom-badges)  
-![GitHub Repo stars](https://img.shields.io/github/stars/TahirAli/custom-badges?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/TahirAli/custom-badges?style=social)  
-🛡️ Create your own custom badges with icons and text.  
-
----
-
-### [youtube-cards](https://github.com/TahirAli/youtube-cards)  
-![GitHub Repo stars](https://img.shields.io/github/stars/TahirAli/youtube-cards?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/TahirAli/youtube-cards?style=social)  
-▶️ Display your recent YouTube videos as SVG cards in your README.  
-
+### [Periodic_Table](https://github.com/MRDAVIL1/Periodic_AtomicUI) 
 ---
 ---
 
@@ -70,14 +51,6 @@ Hi, I’m **Tahir Ali**, a passionate **Web Developer** 🚀
 ---
 
 ⭐ *“Every great project starts with one small line of code.”*
----
-
-⭐ *“Every great project starts with one small line of code.”*
-# Figma_Blog
-# 🌐 Nordic Rose - Blog Webpage
-
-This is a responsive and stylish blog webpage titled **"Nordic Rose"**, built using **HTML** and **CSS**. It replicates the layout of a modern blog platform with aesthetic animations, interactive design elements, and structured content areas.
-
 ---
 
 ## 📌 Features
