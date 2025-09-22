@@ -64,11 +64,6 @@ Hi, I’m **Tahir Ali**, a passionate **Web Developer** 🚀
 - 📧 Email sign-up section with styled form  
 - 🔗 Social media share buttons (Facebook, Twitter)  
 - 🧠 Fully written in **pure HTML & CSS**, no JavaScript
-
----
-
-> Make sure all images are placed correctly in the root folder or adjust the `src` paths if placed in an `/assets` folder.
-
 ---
 
 ## 🚀 Live Preview
