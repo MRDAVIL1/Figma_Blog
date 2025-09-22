@@ -4,8 +4,8 @@
 👨‍💻 3 years of coding experience  
  
 [![GitHub Stars](https://img.shields.io/github/stars/TahirAli?affiliations=OWNER&style=for-the-badge&logo=github&color=brightgreen)](https://github.com/MRDAVIL1)  
-[![GitHub Followers](https://img.shields.io/github/followers/TahirAli?style=for-the-badge&logo=github&color=blue)](https://github.com/TahirAli)  
-[![Profile Visitors](https://komarev.com/ghpvc/?username=TahirAli&style=for-the-badge&color=purple)](https://github.com/TahirAli)  
+[![GitHub Followers](https://img.shields.io/github/followers/TahirAli?style=for-the-badge&logo=github&color=blue)](https://github.com/MRDAVIL1)  
+[![Profile Visitors](https://komarev.com/ghpvc/?username=MRDAVIL1&style=for-the-badge&color=purple)](https://github.com/MRDAVIL1)  
 
 ---
 
